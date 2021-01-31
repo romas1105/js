@@ -10,6 +10,7 @@ const personalMovieDB = {
     privat: false//логический тип с присвоенным значением
 };
 
+
 for (let i=0; i<2; i++)
     {
         const   film = prompt('Название вашего любимого фильма: ', ''),
